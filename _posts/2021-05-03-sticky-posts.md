@@ -12,6 +12,8 @@ Sticky, or pinned, posts are featured on the top of every page. Tale provides so
 
 Add `sticky: true` to the frontmatter of your blog post.
 
+哈哈哈
+
 ### Exclude sticky post from paginated posts
 
 By default, sticky posts are still included in the paginated posts. To exclude a sticky post from paginated posts, add `hidden: true` to the frontmatter of that blog post.
