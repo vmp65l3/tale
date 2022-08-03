@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Introducing Tale|介绍"
 author: "Chester"
 comments: true
 tags: Tale
